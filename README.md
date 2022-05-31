@@ -45,3 +45,4 @@ namespace ifelseyapısı
         
     }
 }
+[Patika Dev Sayfam](https://app.patika.dev/sevaalnuur)
