@@ -42,8 +42,5 @@ namespace ifelseyapısı
             Console.ReadKey();
         }
             
-        
-    }
-}
 
 [Patika Dev Sayfam](https://app.patika.dev/sevaalnuur)
